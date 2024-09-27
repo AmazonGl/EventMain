@@ -1,0 +1,13 @@
+name: Event
+version: '${project.version}'
+main: com.amazon.EventCommandMain
+api-version: 1.19
+authors: [ Amazon ]
+commands:
+  eventrandom:
+  exclusion:
+  event:
+  eventlist:
+  start:
+  e:
+  e2:
